@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuncrypt",
+        "uuid": 29003700,
+        "checksum": "8uwre"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
